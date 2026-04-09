@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
         - name: html-demo
-          image: vigneshwaran2110/html-demo:latest
+          image: \cholanfc/html-demo:latest
           ports:
             - containerPort: 80
 
